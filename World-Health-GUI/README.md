@@ -14,6 +14,7 @@ By Region
 Clicking the "Explore" button triggers the selected exploration mode.
 
 2. Exploration Modes
+   
 --> By Health Area
 
 Opens a new window where users can select specific health topics, including:
