@@ -12,8 +12,9 @@ By Country
 By Year
 By Region
 Clicking the "Explore" button triggers the selected exploration mode.
+
 2. Exploration Modes
-By Health Area
+--> By Health Area
 
 Opens a new window where users can select specific health topics, including:
 Child Health
@@ -23,16 +24,19 @@ Life Expectancy
 Vaccination
 After selecting a health area and clicking "Query Data", the relevant data is displayed.
 Users can filter results by country using a combobox and filter button.
-By Country
+
+--> By Country
 
 Opens a window with a listbox to select a country.
 Clicking "Explore" displays the country-specific health data in a new window.
-By Year
+
+--> By Year
 
 Opens a new window where users can select a specific year.
 Clicking "Explore" retrieves and displays health data for that year.
 Users can filter the data by country or region using comboboxes and filter buttons.
-By Region
+
+--> By Region
 
 Opens a window where users can select a region from a list of subregions.
 Clicking "Explore" displays aggregated health data for the selected region.
